@@ -143,4 +143,4 @@ buttons[0].addEventListener('click', prevFn);
 buttons[1].addEventListener('click', nextFn);
   
   
-setInterval(nextFn, 2000);
+setInterval(nextFn, 3000);
